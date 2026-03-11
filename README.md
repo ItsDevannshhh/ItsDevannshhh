@@ -8,5 +8,5 @@
 C++ | JavaScript | HTML | CSS
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/devansh-yaduvanshi-700712351/)
-[x](https://x.com/devvanshh_17)
+#[LinkedIn](https://www.linkedin.com/in/devansh-yaduvanshi-700712351/)
+#[x](https://x.com/devvanshh_17)
