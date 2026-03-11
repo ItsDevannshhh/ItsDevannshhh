@@ -4,8 +4,10 @@
   <b>Problem Solver • Aspiring Full Stack Developer</b>
 </p>
 
+<p align="center">
   🌱 Currently exploring <b>backend development</b> while building <b>modern frontend applications</b> <br>
   🚀 Passionate about <b>algorithms, problem solving, and building impactful projects</b>
+</p>
 
 
 ## 🛠️ Tech Stack
@@ -34,5 +36,6 @@ https://x.com/devvanshh_17
 🧠 **LeetCode**  
 https://leetcode.com/u/LC_devansh_yaduvanshi/
 
+---
 
 ⭐ Always learning, building, and solving problems.
